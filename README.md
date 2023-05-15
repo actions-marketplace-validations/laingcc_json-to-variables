@@ -37,7 +37,7 @@ Mask variables as secrets. Default value `false`.
 ### YML example 
 ```yml
 - name: JSON to variables
-  uses: rgarcia-phi/json-to-variables@v1.1.0
+  uses: laingcc/json-to-variables@v1.1.0
   with:
     filename: 'test.json'
     prefix: test
