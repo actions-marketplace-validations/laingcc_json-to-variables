@@ -1,4 +1,4 @@
-name: 'JSON to environment variables'
+name: 'JSON to Environment Variable -- With Masking. Node 16 compatable'
 author: 'Anton Ivanenko, Roberto García, Charles Laing'
 description: 'This action reads json file and writes its content as environment variables with optional secret masking'
 branding:
